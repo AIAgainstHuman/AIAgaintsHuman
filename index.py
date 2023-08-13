@@ -1,4 +1,4 @@
-import numpy as np
+import numpy
 
 def exp_x(x):
-  return np.exp(x)
+  return numpy.exp(x)
